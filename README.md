@@ -1,2 +1,0 @@
-# Nano
-Android Nanodegree Projects
